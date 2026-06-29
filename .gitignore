@@ -1,0 +1,21 @@
+# --- PlatformIO rác ---
+.pio/
+.clang_complete
+.gcc-flags.json
+.tags
+
+# --- VS Code cấu hình và database gợi ý code ---
+.vscode/.browse.c_cpp.db*
+.vscode/ipch/
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/cmake-variants.json
+
+# --- Hệ điều hành macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+._*
+.Spotlight-V100
+.Trashes
